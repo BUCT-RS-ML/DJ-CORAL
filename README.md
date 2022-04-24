@@ -3,7 +3,7 @@ This is a [pytorch](http://pytorch.org/) implementation of DJ-CORAL
 
 
 ### Abstract
-
+waiting for update
 ### Prerequisites
 - Python 3.6
 - Pytorch 1.3.1
@@ -35,7 +35,8 @@ $ pip install -r requirements.txt
 
 
 ### Citation
-If you find this code useful for your research, please cite our [paper]():
+If you find this code useful for your research, please cite our paper():
+Waiting for update
 ```
 
 ```
@@ -43,7 +44,6 @@ If you find this code useful for your research, please cite our [paper]():
 ### Contact
 
 If you have any problem about our code, feel free to contact
-- gayang@mail.buct.edu.cn
-- 18810758807@163.com
+- gayang@buct.edu.cn
 
 or describe your problem in Issues.
