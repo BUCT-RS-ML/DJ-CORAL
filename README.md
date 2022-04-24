@@ -1,5 +1,5 @@
 # Semi-supervised Heterogeneous Domain Adaptation via Dynamic Joint Correlation Alignment Network for Ship Classification in SAR Imagery
-This is a [pytorch](http://pytorch.org/) implementation of [DJ-CORAL](https).
+This is a [pytorch](http://pytorch.org/) implementation of DJ-CORAL
 
 
 ### Abstract
