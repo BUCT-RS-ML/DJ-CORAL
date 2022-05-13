@@ -15,8 +15,8 @@ waiting for update
 ### Step-by-step installation
 
 ```bash
-$ conda create -n ssan -y python=3.6
-$ conda activate ssan
+$ conda create -n djcoral -y python=3.6
+$ conda activate djcoral
 
 # this installs the right pip and dependencies for the fresh python
 $ conda install -y ipython pip
